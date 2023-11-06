@@ -1,7 +1,12 @@
 # Estimation Exercise
 
+## User Stories
+List your user stories here:
+1. <my first user story>
+
+
 ## User Stories and Task
 
-| User Story | Task | Estimate |
+| User Story ID | Task | Estimate |
 | ---- | ---- | ----|
-| <Your first story> | <your first task> | <your first estimate> |
+| <Your first story ID> | <your first task> | <your first estimate> |
